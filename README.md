@@ -1,4 +1,7 @@
-# IMPRS Poster References
+# IMPRS Poster References Doruk Yiğit Erigüç
+
+# The interwoven architecture of the amygdala, hippocampus, and isocortex
+
 
 Baum, G. L., Cui, Z., Roalf, D. R., Ciric, R., Betzel, R. F., Larsen, B., ... & Satterthwaite, T. D. (2019). Development of structure–function coupling in human brain networks during youth. Proceedings of the National Academy of Sciences, 117(1), 771-778.
 
